@@ -1,0 +1,8 @@
+*.json
+*.pkl
+**checkpoints**
+*.zip
+*.mat
+*.docx
+*.pdf
+*-workspace
